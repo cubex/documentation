@@ -1,0 +1,12 @@
+{
+  "name":        "cubex/documentation",
+  "description": "Cubex Documentation",
+  "homepage":    "http://cubex.io/docs",
+  "authors":     [
+    {
+      "name":     "Brooke Bryan",
+      "email":    "brooke@bajb.net",
+      "homepage": "http://www.bajb.net"
+    }
+  ]
+}
