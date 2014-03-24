@@ -1,0 +1,4 @@
+documentation
+=============
+
+Cubex Framework Documentation
